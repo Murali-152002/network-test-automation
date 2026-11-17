@@ -1,0 +1,6 @@
+test,min_ms,median_ms,p95_ms,max_ms
+TCP connect github.com:443,19.7,22.0,73.9,103.1
+TCP connect 1.1.1.1:53,17.4,19.5,103.2,110.4
+TCP connect 8.8.8.8:53,19.8,21.8,68.0,118.1
+DNS lookup via 1.1.1.1,13.6,16.2,56.8,97.6
+DNS lookup via 8.8.8.8,16.0,18.8,111.3,123.2

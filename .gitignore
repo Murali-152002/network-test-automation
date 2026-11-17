@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+captures/raw.pcap
+.DS_Store
+.venv/
